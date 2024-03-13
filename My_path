@@ -1,0 +1,8 @@
+Point*100*100*black*false
+Point*200*200*black*false
+Point*300*300*black*false
+Line*100*100*200*200*cyan
+Hexagon*200*200*50*blue*true
+Circle*100*100*50*blue*false
+Rectangle*250*200*70*350*bad_color*false
+Triangle*300*300*400*400*20*30*blue*true
